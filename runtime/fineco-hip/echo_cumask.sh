@@ -1,0 +1,5 @@
+echo $ENABLE_CUMASK
+echo $CUMASK_0
+echo $CUMASK_1
+echo $CUMASK_2
+echo $CUMASK_3
